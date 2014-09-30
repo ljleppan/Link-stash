@@ -92,6 +92,7 @@
   - [Navigation progress bar](http://stackoverflow.com/questions/11195398/navigation-progress-bar)
   - [Chart.js](http://www.chartjs.org/)
   - [Triangilify.js](http://qrohlf.com/trianglify/)
+  - [Midnight.js](http://aerolab.github.io/midnight.js/)
     
 ## Typography
   - [The Ultimate Guide to Golden Ratio Typography](http://www.pearsonified.com/2011/12/golden-ratio-typography.php)
