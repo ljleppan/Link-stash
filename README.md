@@ -1,6 +1,22 @@
 # Link-stash
 
-## Theory
+A stash of useful links for anyone who makes things for the internet.
+
+### Table of Contents
+
+  1. [Theory](https://github.com/ljleppan/Link-stash#theory)
+  2. [Pictures](https://github.com/ljleppan/Link-stash#pictures)
+  3. [Color](https://github.com/ljleppan/Link-stash#color)
+  4. [Design](https://github.com/ljleppan/Link-stash#design)
+  5. [Tools](https://github.com/ljleppan/Link-stash#tools)
+  6. [HTML & CSS](https://github.com/ljleppan/Link-stash#html--css)
+  7. [JS](https://github.com/ljleppan/Link-stash#js)
+  8. [Typography](https://github.com/ljleppan/Link-stash#typography)
+  9. [Fonts](https://github.com/ljleppan/Link-stash#fonts)
+  10. [Iconography](https://github.com/ljleppan/Link-stash#iconography)
+  11. [Misc](https://github.com/ljleppan/Link-stash#misc)
+
+## 1. Theory
   - [Color theory](http://i.imgur.com/QjWKpJP.jpg)
   - [Color template](http://www.rocket-design.fr/color-template/)
   - [Pixel fitting](http://dcurt.is/pixel-fitting)
@@ -27,7 +43,7 @@
   - [Fitts's law](http://en.wikipedia.org/wiki/Fitts%27s_law)
   - [Gestalt laws of grouping]( http://en.wikipedia.org/wiki/Gestalt_psychology#Pr.C3.A4gnanz)
     
-## Pictures
+## 2. Pictures
   - [Tiny PNG](https://tinypng.com/)
   - [Transparent textures](http://www.transparenttextures.com/)
   - [Subtle patters](http://subtlepatterns.com/)
@@ -43,14 +59,14 @@
   - [Albumarium](http://albumarium.com/)
   - [Introduction to UX and UI design](http://www.slideshare.net/jas0nh0ng/01-1hourcrashcourseuxhci)
     
-## Color
+## 3. Color
   - [Pictaculous]( http://www.pictaculous.com/)
   - [Adobe Kuler]( https://kuler.adobe.com/fi/create/color-wheel/)
   - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
   - [UI Gradients](http://uigradients.com/#BetweenTheClouds)
   - [Color.hailpixel](http://color.hailpixel.com/)
  
-## Design
+## 4. Design
   - [Abduzeedo](http://abduzeedo.com/)
   - [Webdesignrepo](http://www.webdesignrepo.com/)
   - [8 universal web design principles](http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/)
@@ -58,10 +74,10 @@
   - [Stop asking me to sign up](http://www.gkogan.co/blog/stop-asking-me-to-sign-up/)
   - [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=c4-overview&list=UURx1y52pfeMwbuer9Vh2u-A)
     
-## Tools
+## 5. Tools
   - [Web page test](http://www.webpagetest.org/)
  
-## HTML & CSS:
+## 6. HTML & CSS:
   - [Animate.css](http://daneden.github.io/animate.css/)
   - [Stop misusing select menus](http://uxmovement.com/forms/stop-misusing-select-menus/)
   - [HTML5 form inputs](http://cdn.sixrevisions.com/demos/0345-new_html5_form_input_types/new-html5-form-input-types.html?)
@@ -86,7 +102,7 @@
   - [Off-canvas menu effects](http://tympanus.net/codrops/2014/09/16/off-canvas-menu-effects/)
   - [CSSCSS redundancy analyzer](http://zmoazeni.github.io/csscss/)
     
-## JS:    
+## 7. JS:    
   - [NoVacancy.js](https://github.com/chuckyglitch/novacancy.js)
   - [Morphing buttons](http://tympanus.net/codrops/2014/05/12/morphing-buttons-concept/)
   - [Navigation progress bar](http://stackoverflow.com/questions/11195398/navigation-progress-bar)
@@ -94,7 +110,7 @@
   - [Triangilify.js](http://qrohlf.com/trianglify/)
   - [Midnight.js](http://aerolab.github.io/midnight.js/)
     
-## Typography
+## 8. Typography
   - [The Ultimate Guide to Golden Ratio Typography](http://www.pearsonified.com/2011/12/golden-ratio-typography.php)
   - [Typophile.com](http://typophile.com/)
   - [Pairing fonts](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706)
@@ -117,7 +133,7 @@
   - [The end of the line: a survey of unjustified typography](https://benjamins.com/#catalog/journals/idj.8.2.03sti/details)
   - [Guidelines for Designing and Evaluating the Display of Information on the Web](http://core.ecu.edu/engl/tpc/MennoMenno/ftp/williams%202000.pdf)
     
-## Fonts
+## 9. Fonts
   - [Fontfinder (wordmark)](http://wordmark.it/)
   - [Archive](http://fontfabric.com/archive-free-font/)
   - [Exo-2](http://ndiscovered.com/exo-2/)
@@ -136,7 +152,7 @@
   - [typ.io](http://www.typ.io/)
   - [So you need a typeface](https://i.imgur.com/IcX2Vv5.jpg)
     
-## Iconography
+## 10. Iconography
   - [Icon usability](http://www.nngroup.com/articles/icon-usability/)
   - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
   - [Entypo](http://www.entypo.com/)
@@ -145,7 +161,7 @@
   - [Font Custom](http://fontcustom.com/)
   - [IKONS](http://ikons.piotrkwiatkowski.co.uk/index.html)
 
-## Misc:
+## 11. Misc:
   - [CoDrops](http://tympanus.net/codrops/)
   - [Identity guide template](http://imjustcreative.com/logo-identity-guideline-template-for-download/2010/04/15)
   - [A list apart](http://alistapart.com/)
