@@ -1,7 +1,6 @@
 # Link-stash
 
 ## Theory
-
   - [Color theory](http://i.imgur.com/QjWKpJP.jpg)
   - [Color template](http://www.rocket-design.fr/color-template/)
   - [Pixel fitting](http://dcurt.is/pixel-fitting)
@@ -28,7 +27,7 @@
   - [Fitts's law](http://en.wikipedia.org/wiki/Fitts%27s_law)
   - [Gestalt laws of grouping]( http://en.wikipedia.org/wiki/Gestalt_psychology#Pr.C3.A4gnanz)
     
-## Pictures:
+## Pictures
   - [Tiny PNG](https://tinypng.com/)
   - [Transparent textures](http://www.transparenttextures.com/)
   - [Subtle patters](http://subtlepatterns.com/)
@@ -50,7 +49,7 @@
   - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
   - [UI Gradients](http://uigradients.com/#BetweenTheClouds)
   - [Color.hailpixel](http://color.hailpixel.com/)
-  - 
+ 
 ## Design
   - [Abduzeedo](http://abduzeedo.com/)
   - [Webdesignrepo](http://www.webdesignrepo.com/)
