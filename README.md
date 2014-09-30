@@ -4,17 +4,17 @@ A stash of useful links for anyone who makes things for the internet.
 
 ### Table of Contents
 
-  1. [Theory](https://github.com/ljleppan/Link-stash#theory)
-  2. [Pictures](https://github.com/ljleppan/Link-stash#pictures)
-  3. [Color](https://github.com/ljleppan/Link-stash#color)
-  4. [Design](https://github.com/ljleppan/Link-stash#design)
-  5. [Tools](https://github.com/ljleppan/Link-stash#tools)
-  6. [HTML & CSS](https://github.com/ljleppan/Link-stash#html--css)
-  7. [JS](https://github.com/ljleppan/Link-stash#js)
-  8. [Typography](https://github.com/ljleppan/Link-stash#typography)
-  9. [Fonts](https://github.com/ljleppan/Link-stash#fonts)
-  10. [Iconography](https://github.com/ljleppan/Link-stash#iconography)
-  11. [Misc](https://github.com/ljleppan/Link-stash#misc)
+  1. [Theory](https://github.com/ljleppan/Link-stash#1-theory)
+  2. [Pictures](https://github.com/ljleppan/Link-stash#2-pictures)
+  3. [Color](https://github.com/ljleppan/Link-stash#3-color)
+  4. [Design](https://github.com/ljleppan/Link-stash#4-design)
+  5. [Tools](https://github.com/ljleppan/Link-stash#5-tools)
+  6. [HTML & CSS](https://github.com/ljleppan/Link-stash#6-html--css)
+  7. [JS](https://github.com/ljleppan/Link-stash#7-js)
+  8. [Typography](https://github.com/ljleppan/Link-stash#8-typography)
+  9. [Fonts](https://github.com/ljleppan/Link-stash#9-fonts)
+  10. [Iconography](https://github.com/ljleppan/Link-stash#10-iconography)
+  11. [Misc](https://github.com/ljleppan/Link-stash#11-misc)
 
 ## 1. Theory
   - [Color theory](http://i.imgur.com/QjWKpJP.jpg)
