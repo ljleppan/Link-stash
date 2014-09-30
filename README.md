@@ -52,7 +52,6 @@
   - [Color.hailpixel](http://color.hailpixel.com/)
   - 
 ## Design
-
   - [Abduzeedo](http://abduzeedo.com/)
   - [Webdesignrepo](http://www.webdesignrepo.com/)
   - [8 universal web design principles](http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/)
@@ -117,7 +116,6 @@
   - [Readability Do's and Dont's](http://wmich.edu/writing/readability)
   - [The end of the line: a survey of unjustified typography](https://benjamins.com/#catalog/journals/idj.8.2.03sti/details)
   - [Guidelines for Designing and Evaluating the Display of Information on the Web](http://core.ecu.edu/engl/tpc/MennoMenno/ftp/williams%202000.pdf)
-    
     
 ## Fonts
   - [Fontfinder (wordmark)](http://wordmark.it/)
