@@ -110,6 +110,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [Triangilify.js](http://qrohlf.com/trianglify/)
   - [Midnight.js](http://aerolab.github.io/midnight.js/)
   - [Triangoloid](https://github.com/asifmallik/triangloid)
+  - [Blurt](http://bitwiser.in/blurt/)
     
 ## 8. Typography
   - [The Ultimate Guide to Golden Ratio Typography](http://www.pearsonified.com/2011/12/golden-ratio-typography.php)
