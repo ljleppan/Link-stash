@@ -58,6 +58,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [IM Free](http://www.imcreator.com/free)
   - [Albumarium](http://albumarium.com/)
   - [Introduction to UX and UI design](http://www.slideshare.net/jas0nh0ng/01-1hourcrashcourseuxhci)
+  - [All the free stock](http://allthefreestock.com/)
     
 ## 3. Color
   - [Pictaculous]( http://www.pictaculous.com/)
