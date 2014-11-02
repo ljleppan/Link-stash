@@ -102,6 +102,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [CSS raindrops](http://codepen.io/lbebber/pen/uIiJp)
   - [Off-canvas menu effects](http://tympanus.net/codrops/2014/09/16/off-canvas-menu-effects/)
   - [CSSCSS redundancy analyzer](http://zmoazeni.github.io/csscss/)
+  - [range.css - Range style generator](http://danielstern.ca/range.css/#/)
     
 ## 7. JS:    
   - [NoVacancy.js](https://github.com/chuckyglitch/novacancy.js)
