@@ -74,6 +74,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [Clean up your mess - a guide to visual design for everyone](http://www.visualmess.com/)
   - [Stop asking me to sign up](http://www.gkogan.co/blog/stop-asking-me-to-sign-up/)
   - [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=c4-overview&list=UURx1y52pfeMwbuer9Vh2u-A)
+  - [Google Material Design spec](http://www.google.com/design/spec/material-design/introduction.html)
     
 ## 5. Tools
   - [Web page test](http://www.webpagetest.org/)
@@ -164,6 +165,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [Open iconic](https://useiconic.com/open/)
   - [Font Custom](http://fontcustom.com/)
   - [IKONS](http://ikons.piotrkwiatkowski.co.uk/index.html)
+  - [Google Material Design icons](https://github.com/google/material-design-icons)
 
 ## 11. Misc:
   - [CoDrops](http://tympanus.net/codrops/)
