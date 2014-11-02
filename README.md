@@ -42,6 +42,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [Hick's law](http://en.wikipedia.org/wiki/Hick%27s_law)
   - [Fitts's law](http://en.wikipedia.org/wiki/Fitts%27s_law)
   - [Gestalt laws of grouping]( http://en.wikipedia.org/wiki/Gestalt_psychology#Pr.C3.A4gnanz)
+  - [Gestalt principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm)
     
 ## 2. Pictures
   - [Tiny PNG](https://tinypng.com/)
