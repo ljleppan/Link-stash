@@ -158,6 +158,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [Fonts in use](http://fontsinuse.com/)
   - [typ.io](http://www.typ.io/)
   - [So you need a typeface](https://i.imgur.com/IcX2Vv5.jpg)
+  - [Font Squirrel](http://www.fontsquirrel.com/)
     
 ## 10. Iconography
   - [Icon usability](http://www.nngroup.com/articles/icon-usability/)
