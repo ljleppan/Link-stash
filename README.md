@@ -68,6 +68,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [UI Gradients](http://uigradients.com/#BetweenTheClouds)
   - [Color.hailpixel](http://color.hailpixel.com/)
   - [Coolors](http://coolors.co/)
+  - [Flat UI Colors](http://flatuicolors.com/)
  
 ## 4. Design
   - [Abduzeedo](http://abduzeedo.com/)
