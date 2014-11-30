@@ -62,11 +62,12 @@ A stash of useful links for anyone who makes things for the internet.
   - [All the free stock](http://allthefreestock.com/)
     
 ## 3. Color
-  - [Pictaculous]( http://www.pictaculous.com/)
-  - [Adobe Kuler]( https://kuler.adobe.com/fi/create/color-wheel/)
+  - [Pictaculous](http://www.pictaculous.com/)
+  - [Adobe Kuler](https://kuler.adobe.com/fi/create/color-wheel/)
   - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
   - [UI Gradients](http://uigradients.com/#BetweenTheClouds)
   - [Color.hailpixel](http://color.hailpixel.com/)
+  - [Coolors](http://coolors.co/)
  
 ## 4. Design
   - [Abduzeedo](http://abduzeedo.com/)
