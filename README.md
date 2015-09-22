@@ -162,6 +162,7 @@ A stash of useful links for anyone who makes things for the internet.
   - [So you need a typeface](https://i.imgur.com/IcX2Vv5.jpg)
   - [Font Squirrel](http://www.fontsquirrel.com/)
   - [Overpass](http://overpassfont.org/)
+  - [Font Flame](http://fontflame.com/)
     
 ## 10. Iconography
   - [Icon usability](http://www.nngroup.com/articles/icon-usability/)
